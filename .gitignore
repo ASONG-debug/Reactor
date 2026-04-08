@@ -1,0 +1,21 @@
+# Build
+build/
+*.o
+*.a
+*.so
+*.dylib
+echoserver
+client
+benchmark
+test
+tcpepoll
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS
+.DS_Store
+Thumbs.db
